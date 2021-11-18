@@ -18,7 +18,6 @@ function loadHome() {
     const li = document.createElement('li');
     const a = document.createElement('a')
 
-    a.href = './home.js';
     a.textContent = 'Home';
     li.appendChild(a);
 
@@ -29,7 +28,6 @@ function loadMenu() {
     const li = document.createElement('li');
     const a = document.createElement('a')
 
-    a.href = './menu.js';
     a.textContent = 'Menu';
     li.appendChild(a);
 
@@ -40,7 +38,6 @@ function loadContact() {
     const li = document.createElement('li');
     const a = document.createElement('a')
 
-    a.href = './home.js';
     a.textContent = 'Contact';
     li.appendChild(a);
 

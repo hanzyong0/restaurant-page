@@ -1,5 +1,3 @@
-import createHeader from "./header";
-
 function createHome() {
     const container = document.createElement('div');
     container.id = 'container';
