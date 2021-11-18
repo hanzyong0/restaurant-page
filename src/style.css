@@ -22,10 +22,12 @@ body {
 a {
     text-decoration: none;
     cursor: pointer;
+    color: white;
 }
 
 li {
     list-style-type: none;
+    
 }
 
 #content {
@@ -39,7 +41,6 @@ li {
 header {
     width: 100%;
     background-color: black;
-    color: white;
     padding: 1em;
     margin-bottom: 100px;
 }
